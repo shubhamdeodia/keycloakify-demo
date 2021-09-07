@@ -1,6 +1,7 @@
 {
     "name": "keycloakify-demo-app",
     "version": "0.2.14",
+    "homepage": "com.nuance.nvod",
     "description": "A demo project for keycloakify",
     "repository": {
         "type": "git",
