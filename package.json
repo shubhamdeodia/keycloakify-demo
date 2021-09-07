@@ -1,6 +1,6 @@
 {
     "name": "keycloakify-demo-app",
-    "version": "0.2.14",
+    "version": "0.2.15",
     "homepage": "https://mtl-neam-be01.nuance.com:8443/neam-frontend",
     "description": "A demo project for keycloakify",
     "repository": {
